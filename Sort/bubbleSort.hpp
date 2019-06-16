@@ -1,6 +1,7 @@
 ﻿#pragma once
 #include<iostream>
 using namespace std;
+/*冒泡排序*/
 void bubbsort(int* a, int length) {
 	int temp;
 	for (int i = 0; i < length; i++){
